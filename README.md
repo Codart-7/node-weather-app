@@ -29,4 +29,4 @@ A weather forecasting app built on node.js (express.js).
 - [Dark Sky](https://darksky.net/dev)
 - [mapbox](https://www.mapbox.com/)
 
-#### Original Author: 
+#### Original Author: [Divyanshu Mahajan](https://github.com/dmahajan980/node-weather-app) 
